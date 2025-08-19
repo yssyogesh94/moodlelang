@@ -120,4 +120,5 @@ $string['privacy:metadata:auth_oauth2:usermodified'] = 'The ID of the user who m
 $string['privacy:metadata:auth_oauth2:username'] = 'The external username that maps to this account.';
 $string['testidplogin'] = 'Test login with:';
 $string['userinfo'] = 'User data from provider:';
-$string['value'] = 'Value';
+$string['value'] = 'Value2';
+$string['testing'] = "Testing";
