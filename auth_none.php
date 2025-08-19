@@ -28,5 +28,4 @@ $string['privacy:metadata'] = 'The No authentication plugin does not store any p
 $string['checknoauthdetails'] = '<p>The <em>No authentication</em> plugin is not intended for production sites. Please disable it unless this is a development test site.</p>';
 $string['checknoautherror'] = 'The No authentication plugin cannot be used on production sites.';
 $string['checknoauth'] = 'No authentication';
-$string['checknoauthok'] = 'The no authentication plugin is disabled.2';
-$string['test'] = "test";
+$string['checknoauthok'] = 'The no authentication plugin is disabled.';
